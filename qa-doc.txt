@@ -1,4 +1,8 @@
 i3@$y^b9XGC*I*WiGDS@%NyN3hHthD55Dv32tmIHJ27Qo49SZN
 i3@$y^b9XGC*I*WiGDS@%NyN3hHthD55Dv32tmIHJ27Qo49SZN
 i3@$y^b9XGC*I*WiGDS@%NyN3hHthD55Dv32tmIHJ27Qo49SZN
+<<<<<<< HEAD
 i3@$y^b9XGC*I*WiGDS@%NyN3hHthD55Dv32tmIHJ27Qo49SNZ
+=======
+i3@$y^b9XGC*I*WiGDS@%NyN3hHthD55Dv32tmIHJ27Qo49SZN
+>>>>>>> d78723c (add txt to qa branch)
